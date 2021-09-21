@@ -1,0 +1,23 @@
+/*  popular */
+
+
+.popular-area {
+
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-evenly;
+}
+
+.popular-row {
+
+    width: 30%;
+    margin: 10px;
+
+}
+
+.popular-row>img {
+    width: 100%;
+}
+.popular-title {
+    margin-left: 10px;
+}

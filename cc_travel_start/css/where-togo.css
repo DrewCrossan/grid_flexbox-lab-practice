@@ -1,0 +1,23 @@
+.where-togo {
+    background-color: black;
+    margin: 10px;
+    border: black;
+}
+
+.where-togo>h2 {
+    color: white;
+}
+
+.where-togo>form>input {
+    width: 15%;
+    padding-bottom: 10px;
+    margin: 20px;
+}
+
+.where-togo>form>select {
+    width: 15%;
+    padding-bottom: 10px;
+    margin: 10px;
+    
+}
+

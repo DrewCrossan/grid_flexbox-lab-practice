@@ -1,0 +1,22 @@
+/*  favourite */
+
+
+.favourite-area {
+
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-evenly;
+}
+
+.favourite-row {
+
+    width: 25%;
+    margin: 5px;
+    padding: 5px;
+
+}
+
+.favourite-row>img {
+    width: 100%;
+}
+

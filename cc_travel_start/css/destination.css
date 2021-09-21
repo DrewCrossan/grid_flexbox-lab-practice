@@ -1,0 +1,20 @@
+/*  destination */
+
+
+.destination-area {
+
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-evenly;
+}
+
+.destination-row {
+
+    width: 30%;
+    margin: 10px;
+
+}
+
+.destination-row>img {
+    width: 100%;
+}
